@@ -1,0 +1,19 @@
+{
+    "\u001b[102;6u": "command-edit:replaceall ",
+    "\u001b[112;6u": "command:set aspell.check off",
+    "\u001b[122;6u": "Redo",
+    "Alt-/": "lua:comment.comment",
+    "Alt-Backspace": "DeleteLine",
+    "Alt-f": "lua:filemanager.toggle_tree",
+    "Alt-p": "command:set aspell.check off",
+    "Alt-t": "command:tab|command-edit:open ",
+    "Ctrl-Delete": "DeleteWordRight",
+    "Ctrl-Down": "CursorDown,CursorDown",
+    "Ctrl-Shift-Down": "SelectDown,SelectDown",
+    "Ctrl-Shift-Up": "SelectUp,SelectUp",
+    "Ctrl-Up": "CursorUp,CursorUp",
+    "Ctrl-p": "command:set aspell.check on",
+    "Ctrl-w": "Quit",
+    "CtrlH": "DeleteWordLeft",
+    "CtrlUnderscore": "lua:comment.comment"
+}

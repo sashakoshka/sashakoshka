@@ -1,0 +1,33 @@
+{
+    "*.h": {
+        "filetype": "c"
+    },
+    "*.html": {
+        "tabsize": 2
+    },
+    "*.js": {
+        "tabsize": 2
+    },
+    "*.json": {
+        "tabsize": 2
+    },
+    "*.lua": {
+        "tabsize": 2
+    },
+    "Makefile": {
+        "tabstospaces": false
+    },
+    "aspell.check": "off",
+    "autosu": true,
+    "basename": true,
+    "colorcolumn": 80,
+    "colorscheme": "nord-16",
+    "ftoptions": false,
+    "scrollspeed": 8,
+    "statusformatl": "$(filename) $(modified)$(line):$(col) $(status.paste)",
+    "statusformatr": "$(opt:filetype) - $(opt:fileformat)",
+    "tabmovement": true,
+    "tabsize": 8,
+    "tabstospaces": true,
+    "wordwrap": true
+}
