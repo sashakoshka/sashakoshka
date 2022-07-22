@@ -9,3 +9,5 @@ Sasha Koshka is not my real name, but it certainly might as well be. If you want
 - [A programming language called ARF](https://github.com/sashakoshka/arf)
 
 ![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashakoshka&show_icons=true&theme=nord)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sashakoshka&theme=nord&column=4&row=8)
