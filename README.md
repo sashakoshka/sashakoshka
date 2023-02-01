@@ -9,7 +9,3 @@ Some of my other projects are located on the [tebibyte media gitea instance](htt
 - [A rewrite/improvement of Minecraft 4K in C](https://github.com/sashakoshka/m4kc)
 - [A modular HTTPS server written in Golang](https://github.com/hlhv)
 - [A programming language called ARF](https://github.com/sashakoshka/arf)
-
-![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashakoshka&show_icons=true&theme=nord)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sashakoshka&theme=nord&column=4&row=8)
